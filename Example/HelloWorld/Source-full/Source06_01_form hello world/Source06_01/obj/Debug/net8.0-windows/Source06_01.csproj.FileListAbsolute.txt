@@ -1,0 +1,16 @@
+C:\Project\C# project\example\Source06_01\Source06_01\bin\Debug\net8.0-windows\Source06_01.exe
+C:\Project\C# project\example\Source06_01\Source06_01\bin\Debug\net8.0-windows\Source06_01.deps.json
+C:\Project\C# project\example\Source06_01\Source06_01\bin\Debug\net8.0-windows\Source06_01.runtimeconfig.json
+C:\Project\C# project\example\Source06_01\Source06_01\bin\Debug\net8.0-windows\Source06_01.dll
+C:\Project\C# project\example\Source06_01\Source06_01\bin\Debug\net8.0-windows\Source06_01.pdb
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.Form1.resources
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.csproj.GenerateResource.cache
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.AssemblyInfoInputs.cache
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.AssemblyInfo.cs
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.csproj.CoreCompileInputs.cache
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.dll
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\refint\Source06_01.dll
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.pdb
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\Source06_01.genruntimeconfig.cache
+C:\Project\C# project\example\Source06_01\Source06_01\obj\Debug\net8.0-windows\ref\Source06_01.dll
