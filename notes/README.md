@@ -19,4 +19,4 @@
 * 웹캠 얼굴인식 : https://youtu.be/YEIQufw-Jpc , https://076923.github.io/posts/C-opencv-29/
 * 번호판 인식 : https://github.com/haji8-thehaji/lecture-csharp/issues/67 , https://github.com/KyungHoon0126/Tesseract-Licenseplate-Recognition
 * DB 연동 : https://velog.io/@wony1102/C-MariaDB-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0 , https://sosopro.tistory.com/109
-* 당근마켓 채팅 서비스 : https://www.youtube.com/watch?v=_F6k0tg8ODo
+* 당근마켓 채팅 서비스 : https://www.youtube.com/watch?v=_F6k0tg8ODo  , https://catchdream.tistory.com/249
