@@ -10,3 +10,7 @@
 1. GUI 프로그래밍 기초
 1. C샵 기본
 1. C sharp 발전 과정
+
+
+## 참고 교재
+1. [폴리텍 도서관](https://kopo.dkyobobook.co.kr/) : https://kopo.dkyobobook.co.kr/
